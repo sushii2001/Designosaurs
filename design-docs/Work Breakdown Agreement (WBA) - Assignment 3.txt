@@ -1,0 +1,56 @@
+Work Breakdown Agreement - Assignment 3
+------------------------
+
+NOT STARTED - PIC has not started the task yet.
+WIP - PIC is working on the task.
+DONE - The task is done.
+
+------------------------
+
+Unclaimed tasks:
+
+
+Remarks:
+- 
+
+------------------------
+
+Zhen Kang Toh:
+
+Responsibilities:
+- Thirsty dinosaurs - DONE
+- Pterodactyls - DONE
+- Sequence diagram -DONE
+- Class diagram - DONE
+
+Remarks:
+- Review code comments - DONE
+- review and assist writing design rationale - DONE
+
+------------------------
+
+Ci Leong Ong:
+
+Responsibilities:
+- Lakes, water and rain - DONE
+- Thirsty dinosaurs
+  - BFS - DONE
+  - Rain wakes up unconscious dinosaurs - DONE
+  - Lake blocks land creatures from entering - DONE
+  - Water bottle & vending machine - DONE
+- Pterodactyls
+  - Pterodactyls cannot eat a whole corpse - DONE
+- Second map - DONE
+- Game driver - DONE
+- Code documentation & JavaDocs - DONE
+- Engine recommendations - DONE
+- Design rationale - DONE
+
+Remarks:
+- 
+
+------------------------
+
+Zhen Kang Toh: I AGREE
+
+Ci Leong Ong: I AGREE
